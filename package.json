@@ -43,7 +43,7 @@
     "tslint-config-security": "^1.13.0",
     "typescript": "^3.2.2",
     "webpack": "^4.35.0",
-    "webpack-cli": "^3.3.5",
+    "webpack-cli": "^3.3.12",
     "webpack-node-externals": "^1.7.2"
   },
   "project": {
